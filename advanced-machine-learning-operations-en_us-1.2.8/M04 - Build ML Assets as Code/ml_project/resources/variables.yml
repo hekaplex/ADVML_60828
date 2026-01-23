@@ -1,0 +1,7 @@
+variables:
+  cluster_id_var:
+    default: 0123-120305-5vxumiaa
+    description: Your cluster ID
+  username_var:
+    default: ${workspace.current_user.userName}
+    description: Your username

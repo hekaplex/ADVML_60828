@@ -1,0 +1,7 @@
+{
+    "feature_data_count": 70692,
+    "feature_vector_count": 70692,
+    "predictions_count": 70692,
+    "rmse": 0.43535687196522255,
+    "model_accuracy": 0.7828513853953233
+}
